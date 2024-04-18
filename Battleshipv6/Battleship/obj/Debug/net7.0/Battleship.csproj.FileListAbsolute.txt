@@ -1,0 +1,145 @@
+C:\Users\k.skiba\Desktop\workfolder\Battleship\Battleship\bin\Debug\net7.0\Battleship.exe
+C:\Users\k.skiba\Desktop\workfolder\Battleship\Battleship\bin\Debug\net7.0\Battleship.deps.json
+C:\Users\k.skiba\Desktop\workfolder\Battleship\Battleship\bin\Debug\net7.0\Battleship.runtimeconfig.json
+C:\Users\k.skiba\Desktop\workfolder\Battleship\Battleship\bin\Debug\net7.0\Battleship.dll
+C:\Users\k.skiba\Desktop\workfolder\Battleship\Battleship\bin\Debug\net7.0\Battleship.pdb
+C:\Users\k.skiba\Desktop\workfolder\Battleship\Battleship\obj\Debug\net7.0\Battleship.csproj.AssemblyReference.cache
+C:\Users\k.skiba\Desktop\workfolder\Battleship\Battleship\obj\Debug\net7.0\Battleship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k.skiba\Desktop\workfolder\Battleship\Battleship\obj\Debug\net7.0\Battleship.AssemblyInfoInputs.cache
+C:\Users\k.skiba\Desktop\workfolder\Battleship\Battleship\obj\Debug\net7.0\Battleship.AssemblyInfo.cs
+C:\Users\k.skiba\Desktop\workfolder\Battleship\Battleship\obj\Debug\net7.0\Battleship.csproj.CoreCompileInputs.cache
+C:\Users\k.skiba\Desktop\workfolder\Battleship\Battleship\obj\Debug\net7.0\Battleship.dll
+C:\Users\k.skiba\Desktop\workfolder\Battleship\Battleship\obj\Debug\net7.0\refint\Battleship.dll
+C:\Users\k.skiba\Desktop\workfolder\Battleship\Battleship\obj\Debug\net7.0\Battleship.pdb
+C:\Users\k.skiba\Desktop\workfolder\Battleship\Battleship\obj\Debug\net7.0\Battleship.genruntimeconfig.cache
+C:\Users\k.skiba\Desktop\workfolder\Battleship\Battleship\obj\Debug\net7.0\ref\Battleship.dll
+C:\Users\V.Smagin\Downloads\Battleship\Battleship\bin\Debug\net7.0\Battleship.exe
+C:\Users\V.Smagin\Downloads\Battleship\Battleship\bin\Debug\net7.0\Battleship.deps.json
+C:\Users\V.Smagin\Downloads\Battleship\Battleship\bin\Debug\net7.0\Battleship.runtimeconfig.json
+C:\Users\V.Smagin\Downloads\Battleship\Battleship\bin\Debug\net7.0\Battleship.dll
+C:\Users\V.Smagin\Downloads\Battleship\Battleship\bin\Debug\net7.0\Battleship.pdb
+C:\Users\V.Smagin\Downloads\Battleship\Battleship\obj\Debug\net7.0\Battleship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\V.Smagin\Downloads\Battleship\Battleship\obj\Debug\net7.0\Battleship.AssemblyInfoInputs.cache
+C:\Users\V.Smagin\Downloads\Battleship\Battleship\obj\Debug\net7.0\Battleship.AssemblyInfo.cs
+C:\Users\V.Smagin\Downloads\Battleship\Battleship\obj\Debug\net7.0\Battleship.csproj.CoreCompileInputs.cache
+C:\Users\V.Smagin\Downloads\Battleship\Battleship\obj\Debug\net7.0\Battleship.sourcelink.json
+C:\Users\V.Smagin\Downloads\Battleship\Battleship\obj\Debug\net7.0\Battleship.dll
+C:\Users\V.Smagin\Downloads\Battleship\Battleship\obj\Debug\net7.0\refint\Battleship.dll
+C:\Users\V.Smagin\Downloads\Battleship\Battleship\obj\Debug\net7.0\Battleship.pdb
+C:\Users\V.Smagin\Downloads\Battleship\Battleship\obj\Debug\net7.0\Battleship.genruntimeconfig.cache
+C:\Users\V.Smagin\Downloads\Battleship\Battleship\obj\Debug\net7.0\ref\Battleship.dll
+C:\Users\Smagin\Downloads\Battleship (1)\Battleship\Battleship\bin\Debug\net7.0\Battleship.exe
+C:\Users\Smagin\Downloads\Battleship (1)\Battleship\Battleship\bin\Debug\net7.0\Battleship.deps.json
+C:\Users\Smagin\Downloads\Battleship (1)\Battleship\Battleship\bin\Debug\net7.0\Battleship.runtimeconfig.json
+C:\Users\Smagin\Downloads\Battleship (1)\Battleship\Battleship\bin\Debug\net7.0\Battleship.dll
+C:\Users\Smagin\Downloads\Battleship (1)\Battleship\Battleship\bin\Debug\net7.0\Battleship.pdb
+C:\Users\Smagin\Downloads\Battleship (1)\Battleship\Battleship\obj\Debug\net7.0\Battleship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Smagin\Downloads\Battleship (1)\Battleship\Battleship\obj\Debug\net7.0\Battleship.AssemblyInfoInputs.cache
+C:\Users\Smagin\Downloads\Battleship (1)\Battleship\Battleship\obj\Debug\net7.0\Battleship.AssemblyInfo.cs
+C:\Users\Smagin\Downloads\Battleship (1)\Battleship\Battleship\obj\Debug\net7.0\Battleship.csproj.CoreCompileInputs.cache
+C:\Users\Smagin\Downloads\Battleship (1)\Battleship\Battleship\obj\Debug\net7.0\Battleship.dll
+C:\Users\Smagin\Downloads\Battleship (1)\Battleship\Battleship\obj\Debug\net7.0\refint\Battleship.dll
+C:\Users\Smagin\Downloads\Battleship (1)\Battleship\Battleship\obj\Debug\net7.0\Battleship.pdb
+C:\Users\Smagin\Downloads\Battleship (1)\Battleship\Battleship\obj\Debug\net7.0\Battleship.genruntimeconfig.cache
+C:\Users\Smagin\Downloads\Battleship (1)\Battleship\Battleship\obj\Debug\net7.0\ref\Battleship.dll
+C:\Users\V.Smagin\Downloads\Battleshipv3hitmark\Battleship (1)\Battleship\Battleship\bin\Debug\net7.0\Battleship.exe
+C:\Users\V.Smagin\Downloads\Battleshipv3hitmark\Battleship (1)\Battleship\Battleship\bin\Debug\net7.0\Battleship.deps.json
+C:\Users\V.Smagin\Downloads\Battleshipv3hitmark\Battleship (1)\Battleship\Battleship\bin\Debug\net7.0\Battleship.runtimeconfig.json
+C:\Users\V.Smagin\Downloads\Battleshipv3hitmark\Battleship (1)\Battleship\Battleship\bin\Debug\net7.0\Battleship.dll
+C:\Users\V.Smagin\Downloads\Battleshipv3hitmark\Battleship (1)\Battleship\Battleship\bin\Debug\net7.0\Battleship.pdb
+C:\Users\V.Smagin\Downloads\Battleshipv3hitmark\Battleship (1)\Battleship\Battleship\obj\Debug\net7.0\Battleship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\V.Smagin\Downloads\Battleshipv3hitmark\Battleship (1)\Battleship\Battleship\obj\Debug\net7.0\Battleship.AssemblyInfoInputs.cache
+C:\Users\V.Smagin\Downloads\Battleshipv3hitmark\Battleship (1)\Battleship\Battleship\obj\Debug\net7.0\Battleship.AssemblyInfo.cs
+C:\Users\V.Smagin\Downloads\Battleshipv3hitmark\Battleship (1)\Battleship\Battleship\obj\Debug\net7.0\Battleship.csproj.CoreCompileInputs.cache
+C:\Users\V.Smagin\Downloads\Battleshipv3hitmark\Battleship (1)\Battleship\Battleship\obj\Debug\net7.0\Battleship.sourcelink.json
+C:\Users\V.Smagin\Downloads\Battleshipv3hitmark\Battleship (1)\Battleship\Battleship\obj\Debug\net7.0\Battleship.dll
+C:\Users\V.Smagin\Downloads\Battleshipv3hitmark\Battleship (1)\Battleship\Battleship\obj\Debug\net7.0\refint\Battleship.dll
+C:\Users\V.Smagin\Downloads\Battleshipv3hitmark\Battleship (1)\Battleship\Battleship\obj\Debug\net7.0\Battleship.pdb
+C:\Users\V.Smagin\Downloads\Battleshipv3hitmark\Battleship (1)\Battleship\Battleship\obj\Debug\net7.0\Battleship.genruntimeconfig.cache
+C:\Users\V.Smagin\Downloads\Battleshipv3hitmark\Battleship (1)\Battleship\Battleship\obj\Debug\net7.0\ref\Battleship.dll
+C:\Users\Smagin\Downloads\Battleshipinsert\Battleship\obj\Debug\net7.0\Battleship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Smagin\Downloads\Battleshipinsert\Battleship\obj\Debug\net7.0\Battleship.AssemblyInfoInputs.cache
+C:\Users\Smagin\Downloads\Battleshipinsert\Battleship\obj\Debug\net7.0\Battleship.AssemblyInfo.cs
+C:\Users\Smagin\Downloads\Battleshipinsert\Battleship\obj\Debug\net7.0\Battleship.csproj.CoreCompileInputs.cache
+C:\Users\Smagin\Downloads\Battleshipinsert\Battleship\obj\Debug\net7.0\Battleship.dll
+C:\Users\Smagin\Downloads\Battleshipinsert\Battleship\obj\Debug\net7.0\refint\Battleship.dll
+C:\Users\Smagin\Downloads\Battleshipinsert\Battleship\obj\Debug\net7.0\Battleship.pdb
+C:\Users\Smagin\Downloads\Battleshipinsert\Battleship\bin\Debug\net7.0\Battleship.exe
+C:\Users\Smagin\Downloads\Battleshipinsert\Battleship\bin\Debug\net7.0\Battleship.deps.json
+C:\Users\Smagin\Downloads\Battleshipinsert\Battleship\bin\Debug\net7.0\Battleship.runtimeconfig.json
+C:\Users\Smagin\Downloads\Battleshipinsert\Battleship\bin\Debug\net7.0\Battleship.dll
+C:\Users\Smagin\Downloads\Battleshipinsert\Battleship\bin\Debug\net7.0\Battleship.pdb
+C:\Users\Smagin\Downloads\Battleshipinsert\Battleship\obj\Debug\net7.0\Battleship.genruntimeconfig.cache
+C:\Users\Smagin\Downloads\Battleshipinsert\Battleship\obj\Debug\net7.0\ref\Battleship.dll
+C:\Users\Smagin\Downloads\Battleship\Battleship\bin\Debug\net7.0\Battleship.exe
+C:\Users\Smagin\Downloads\Battleship\Battleship\bin\Debug\net7.0\Battleship.deps.json
+C:\Users\Smagin\Downloads\Battleship\Battleship\bin\Debug\net7.0\Battleship.runtimeconfig.json
+C:\Users\Smagin\Downloads\Battleship\Battleship\bin\Debug\net7.0\Battleship.dll
+C:\Users\Smagin\Downloads\Battleship\Battleship\bin\Debug\net7.0\Battleship.pdb
+C:\Users\Smagin\Downloads\Battleship\Battleship\obj\Debug\net7.0\Battleship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Smagin\Downloads\Battleship\Battleship\obj\Debug\net7.0\Battleship.AssemblyInfoInputs.cache
+C:\Users\Smagin\Downloads\Battleship\Battleship\obj\Debug\net7.0\Battleship.AssemblyInfo.cs
+C:\Users\Smagin\Downloads\Battleship\Battleship\obj\Debug\net7.0\Battleship.csproj.CoreCompileInputs.cache
+C:\Users\Smagin\Downloads\Battleship\Battleship\obj\Debug\net7.0\Battleship.dll
+C:\Users\Smagin\Downloads\Battleship\Battleship\obj\Debug\net7.0\refint\Battleship.dll
+C:\Users\Smagin\Downloads\Battleship\Battleship\obj\Debug\net7.0\Battleship.pdb
+C:\Users\Smagin\Downloads\Battleship\Battleship\obj\Debug\net7.0\Battleship.genruntimeconfig.cache
+C:\Users\Smagin\Downloads\Battleship\Battleship\obj\Debug\net7.0\ref\Battleship.dll
+C:\Users\Smagin\Downloads\Battleshipv3\Battleship\bin\Debug\net7.0\Battleship.exe
+C:\Users\Smagin\Downloads\Battleshipv3\Battleship\bin\Debug\net7.0\Battleship.deps.json
+C:\Users\Smagin\Downloads\Battleshipv3\Battleship\bin\Debug\net7.0\Battleship.runtimeconfig.json
+C:\Users\Smagin\Downloads\Battleshipv3\Battleship\bin\Debug\net7.0\Battleship.dll
+C:\Users\Smagin\Downloads\Battleshipv3\Battleship\bin\Debug\net7.0\Battleship.pdb
+C:\Users\Smagin\Downloads\Battleshipv3\Battleship\obj\Debug\net7.0\Battleship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Smagin\Downloads\Battleshipv3\Battleship\obj\Debug\net7.0\Battleship.AssemblyInfoInputs.cache
+C:\Users\Smagin\Downloads\Battleshipv3\Battleship\obj\Debug\net7.0\Battleship.AssemblyInfo.cs
+C:\Users\Smagin\Downloads\Battleshipv3\Battleship\obj\Debug\net7.0\Battleship.csproj.CoreCompileInputs.cache
+C:\Users\Smagin\Downloads\Battleshipv3\Battleship\obj\Debug\net7.0\Battleship.dll
+C:\Users\Smagin\Downloads\Battleshipv3\Battleship\obj\Debug\net7.0\refint\Battleship.dll
+C:\Users\Smagin\Downloads\Battleshipv3\Battleship\obj\Debug\net7.0\Battleship.pdb
+C:\Users\Smagin\Downloads\Battleshipv3\Battleship\obj\Debug\net7.0\Battleship.genruntimeconfig.cache
+C:\Users\Smagin\Downloads\Battleshipv3\Battleship\obj\Debug\net7.0\ref\Battleship.dll
+C:\Users\V.Smagin\Downloads\Battleshipv4\Battleship\bin\Debug\net7.0\Battleship.exe
+C:\Users\V.Smagin\Downloads\Battleshipv4\Battleship\bin\Debug\net7.0\Battleship.deps.json
+C:\Users\V.Smagin\Downloads\Battleshipv4\Battleship\bin\Debug\net7.0\Battleship.runtimeconfig.json
+C:\Users\V.Smagin\Downloads\Battleshipv4\Battleship\bin\Debug\net7.0\Battleship.dll
+C:\Users\V.Smagin\Downloads\Battleshipv4\Battleship\bin\Debug\net7.0\Battleship.pdb
+C:\Users\V.Smagin\Downloads\Battleshipv4\Battleship\obj\Debug\net7.0\Battleship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\V.Smagin\Downloads\Battleshipv4\Battleship\obj\Debug\net7.0\Battleship.AssemblyInfoInputs.cache
+C:\Users\V.Smagin\Downloads\Battleshipv4\Battleship\obj\Debug\net7.0\Battleship.AssemblyInfo.cs
+C:\Users\V.Smagin\Downloads\Battleshipv4\Battleship\obj\Debug\net7.0\Battleship.csproj.CoreCompileInputs.cache
+C:\Users\V.Smagin\Downloads\Battleshipv4\Battleship\obj\Debug\net7.0\Battleship.sourcelink.json
+C:\Users\V.Smagin\Downloads\Battleshipv4\Battleship\obj\Debug\net7.0\Battleship.dll
+C:\Users\V.Smagin\Downloads\Battleshipv4\Battleship\obj\Debug\net7.0\refint\Battleship.dll
+C:\Users\V.Smagin\Downloads\Battleshipv4\Battleship\obj\Debug\net7.0\Battleship.pdb
+C:\Users\V.Smagin\Downloads\Battleshipv4\Battleship\obj\Debug\net7.0\Battleship.genruntimeconfig.cache
+C:\Users\V.Smagin\Downloads\Battleshipv4\Battleship\obj\Debug\net7.0\ref\Battleship.dll
+C:\Users\Smagin\Downloads\Battleshipv4\Battleship\bin\Debug\net7.0\Battleship.exe
+C:\Users\Smagin\Downloads\Battleshipv4\Battleship\bin\Debug\net7.0\Battleship.deps.json
+C:\Users\Smagin\Downloads\Battleshipv4\Battleship\bin\Debug\net7.0\Battleship.runtimeconfig.json
+C:\Users\Smagin\Downloads\Battleshipv4\Battleship\bin\Debug\net7.0\Battleship.dll
+C:\Users\Smagin\Downloads\Battleshipv4\Battleship\bin\Debug\net7.0\Battleship.pdb
+C:\Users\Smagin\Downloads\Battleshipv4\Battleship\obj\Debug\net7.0\Battleship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Smagin\Downloads\Battleshipv4\Battleship\obj\Debug\net7.0\Battleship.AssemblyInfoInputs.cache
+C:\Users\Smagin\Downloads\Battleshipv4\Battleship\obj\Debug\net7.0\Battleship.AssemblyInfo.cs
+C:\Users\Smagin\Downloads\Battleshipv4\Battleship\obj\Debug\net7.0\Battleship.csproj.CoreCompileInputs.cache
+C:\Users\Smagin\Downloads\Battleshipv4\Battleship\obj\Debug\net7.0\Battleship.dll
+C:\Users\Smagin\Downloads\Battleshipv4\Battleship\obj\Debug\net7.0\refint\Battleship.dll
+C:\Users\Smagin\Downloads\Battleshipv4\Battleship\obj\Debug\net7.0\Battleship.pdb
+C:\Users\Smagin\Downloads\Battleshipv4\Battleship\obj\Debug\net7.0\Battleship.genruntimeconfig.cache
+C:\Users\Smagin\Downloads\Battleshipv4\Battleship\obj\Debug\net7.0\ref\Battleship.dll
+C:\Users\V.Smagin\Downloads\Battleshipv6\Battleship\bin\Debug\net7.0\Battleship.exe
+C:\Users\V.Smagin\Downloads\Battleshipv6\Battleship\bin\Debug\net7.0\Battleship.deps.json
+C:\Users\V.Smagin\Downloads\Battleshipv6\Battleship\bin\Debug\net7.0\Battleship.runtimeconfig.json
+C:\Users\V.Smagin\Downloads\Battleshipv6\Battleship\bin\Debug\net7.0\Battleship.dll
+C:\Users\V.Smagin\Downloads\Battleshipv6\Battleship\bin\Debug\net7.0\Battleship.pdb
+C:\Users\V.Smagin\Downloads\Battleshipv6\Battleship\obj\Debug\net7.0\Battleship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\V.Smagin\Downloads\Battleshipv6\Battleship\obj\Debug\net7.0\Battleship.AssemblyInfoInputs.cache
+C:\Users\V.Smagin\Downloads\Battleshipv6\Battleship\obj\Debug\net7.0\Battleship.AssemblyInfo.cs
+C:\Users\V.Smagin\Downloads\Battleshipv6\Battleship\obj\Debug\net7.0\Battleship.csproj.CoreCompileInputs.cache
+C:\Users\V.Smagin\Downloads\Battleshipv6\Battleship\obj\Debug\net7.0\Battleship.sourcelink.json
+C:\Users\V.Smagin\Downloads\Battleshipv6\Battleship\obj\Debug\net7.0\Battleship.dll
+C:\Users\V.Smagin\Downloads\Battleshipv6\Battleship\obj\Debug\net7.0\refint\Battleship.dll
+C:\Users\V.Smagin\Downloads\Battleshipv6\Battleship\obj\Debug\net7.0\Battleship.pdb
+C:\Users\V.Smagin\Downloads\Battleshipv6\Battleship\obj\Debug\net7.0\Battleship.genruntimeconfig.cache
+C:\Users\V.Smagin\Downloads\Battleshipv6\Battleship\obj\Debug\net7.0\ref\Battleship.dll
